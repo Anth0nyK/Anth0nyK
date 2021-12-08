@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anth0nyk&label=Profile%20views&color=0e75b6&style=flat" alt="anth0nyk" /> </p>
 
+- 🔭 I’m currently working on **AI and RESTful service project**
+
 - 🌱 I’m currently learning **AI, React and Node.js**
 
+- 📫 How to reach me **anthony.ko.ch.725@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -37,4 +40,6 @@
 <h3 align="left">Other:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anth0nyk&show_icons=true&locale=en" alt="anth0nyk" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anth0nyk&" alt="anth0nyk" /></p>
+
