@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Anth0nyK/Anth0nyK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
