@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">A final year Computer Science student.</h3>
+<h3 align="center">A final year Computer Science student in UK from HK.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anth0nyk&label=Profile%20views&color=0e75b6&style=flat" alt="anth0nyk" /> </p>
 
