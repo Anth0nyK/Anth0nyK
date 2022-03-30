@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Flutter and final year project**
 
-- 🌱 I’m currently learning **AI, React and Node.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 You can reach me on **anthony.ko.ch.725@gmail.com**
 
