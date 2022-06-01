@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anth0nyk&label=Profile%20views&color=0e75b6&style=flat" alt="anth0nyk" /> </p>
 
-[//]: - 🔭 I’m currently working on **final year project**
+<!---
+- 🔭 I’m currently working on **final year project**
 
-[//]: - 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js**
+-->
 
 - 📫 You can reach me on **anthony.ko.ch.725@gmail.com**
 
