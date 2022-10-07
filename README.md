@@ -10,7 +10,7 @@
 -->
 - My Final Year Project : 📦 iDeal Marketplace <https://ideal-marketplace.vercel.app/>
 
-- 📫 You can reach me on **anthony.ko.ch.725@gmail.com**
+- 📫 You can reach me on **anthony.kch.725@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
