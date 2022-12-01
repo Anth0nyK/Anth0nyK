@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anthony Ko :) </h1>
-<h3 align="center">A Computer Science graduate in UK from HK.</h3>
+<h3 align="center">A Programmer & A Computer Science fresh graduate in UK from HK.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anth0nyk&label=Profile%20views&color=0e75b6&style=flat" alt="anth0nyk" /> </p>
 
-<!---
-- 🔭 I’m currently working on **final year project**
+<!-- - 🔭 I’m currently working on **final year project** -->
 
-- 🌱 I’m currently learning **Next.js**
--->
-- My Final Year Project : 📦 iDeal Marketplace <https://ideal-marketplace.vercel.app/>
+- My Final Year Project : 📦 **iDeal Marketplace** <https://ideal-marketplace.vercel.app/>
+
+- 🌱 I’m currently learning **CakePHP**, **Laravel** and **Spring**
 
 - 📫 You can reach me on **anthony.kch.725@gmail.com**
 
@@ -20,7 +19,7 @@
 
 </br>
 
-## My Skill Set  
+## 👨‍💻 My Skill Set  
 <table border-collapse="collapse"><tr><td valign="top" width="33%" border="none">
 
 
@@ -80,7 +79,7 @@
 
 <br/>  
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anth0nyK&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="anth0nyk" /></p>
 </br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anth0nyK&theme=tokyonight&hide_border=true" alt="anth0nyk" /></p>
