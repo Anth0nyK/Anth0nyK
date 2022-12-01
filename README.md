@@ -11,13 +11,11 @@
 
 - 📫 You can reach me on **anthony.kch.725@gmail.com**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/AnthonyK#0725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AnthonyK#0725" height="30" width="40" /></a>
 </p>
 
-</br>
 
 ## 👨‍💻 My Skill Set  
 <table border-collapse="collapse"><tr><td valign="top" width="33%" border="none">
@@ -36,13 +34,10 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%" border="none">
-
-
-
 <h3 align="center"> Backend </h3>  
 <div align="center">  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
@@ -89,7 +84,7 @@
 ## 🏆 GitHub Trophies
 <p align="center">&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=Anth0nyK&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="anth0nyk" /></p>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <p align="center">&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="anth0nyk" /></p>
 
 <!-- 
