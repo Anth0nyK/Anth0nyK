@@ -20,8 +20,6 @@
 ## 👨‍💻 My Skill Set  
 <table border-collapse="collapse"><tr><td valign="top" width="33%" border="none">
 
-
-
 <h3 align="center"> Frontend </h3>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -81,12 +79,14 @@
 </br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anth0nyK&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="anth0nyk" /></p>
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 <p align="center">&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=Anth0nyK&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="anth0nyk" /></p>
-
+ -->
+ 
 ## ✍️ Random Dev Quote
-<p align="center">&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="anth0nyk" /></p>
+<p align="center">&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="anth0nyk" /></p>
+
 <!-- 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anth0nyk&show_icons=true&locale=en" alt="anth0nyk" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anth0nyk&" alt="anth0nyk" /></p> -->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anth0nyk" alt="anth0nyk" /></p> -->
 
