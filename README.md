@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anth0nyk&label=Profile%20views&color=0e75b6&style=flat" alt="anth0nyk" /> </p>
 
 <!-- - 🔭 I’m currently working on **final year project** -->
-
 - My Final Year Project : 📦 **iDeal Marketplace** <https://ideal-marketplace.vercel.app/> (**Next.js** & **Firebase**)
 
 - 🌱 I’m currently learning **CakePHP**, **Laravel** and **Spring**
