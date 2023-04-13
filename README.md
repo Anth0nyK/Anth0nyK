@@ -10,7 +10,8 @@
 <!-- - , **Laravel** and **Spring** -->
     
 - 📫 You can reach me on **anthony.kch.725@gmail.com**
- 
+
+</br>
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
