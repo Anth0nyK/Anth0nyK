@@ -2,11 +2,12 @@
 <h3 align="center">A Full Stack Developer & A Computer Science fresh graduate in UK from HK.</h3>
                            
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anth0nyk&label=Profile%20views&color=0e75b6&style=flat" alt="anth0nyk" /> </p>
-- My Final Year Project : 📦 **iDeal Marketplace** <https://ideal-marketplace.vercel.app/> (**Next.js** & **Firebase**)
+
+- My Personal Website : [anthonyk.net](https://anthonyk.net)
 <!-- - 🔭 I’m currently working on **final year project** -->
-- My Final Year Project : 📦 **iDeal Marketplace** <https://ideal-marketplace.vercel.app/> (**Next.js** & **Firebase**)
+- My Final Year Project : 📦 **iDeal Marketplace** [ideal-marketplace.vercel.app](https://ideal-marketplace.vercel.app) (**Next.js** & **Firebase**)
   
-- 🌱 I’m currently learning **StripeJS**
+- 🌱 I’m currently learning **StripeJS** and **ThreeJS**
 <!-- - , **Laravel** and **Spring** -->
      
 - 📫 You can reach me on **anthony.kch.725@gmail.com**
