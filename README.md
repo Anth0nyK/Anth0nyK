@@ -5,7 +5,7 @@
  
 - My Personal Website : [anthonyk.net](https://anthonyk.net)
 <!-- - 🔭 I’m currently working on **final year project** -->
-- My Final Year Project : 📦 **iDeal Marketplace** [ideal-marketplace.vercel.app](https://ideal-marketplace.vercel.app) (**Next.js** & **Firebase**)
+- My Final Year Project : 📦 **iDeal Marketplace** [ideal-marketplace.vercel.app](https://ideal-marketplace.anthonyk.net/) (**Next.js** & **Firebase**)
   
 - 🌱 I’m currently learning **VueJS, StripeJS** and **ThreeJS**
 <!-- - , **Laravel** and **Spring** -->
