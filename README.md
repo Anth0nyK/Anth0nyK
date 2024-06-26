@@ -94,7 +94,7 @@
  
 </br>
 
-## ✍️ Dev Quote
+## ✍️ Random Dev Quote
 <p align="center">&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="anth0nyk" /></p>
 
 <!-- 
