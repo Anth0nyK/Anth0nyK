@@ -7,7 +7,7 @@
 <!-- - 🔭 I’m currently working on **final year project** -->
 - My Final Year Project : 📦 **iDeal Marketplace** [ideal-marketplace.anthonyk.net](https://ideal-marketplace.anthonyk.net/) (**Next.js** & **Firebase**)
   
-- 🌱 I’m currently learning **VueJS, StripeJS** and **ThreeJS**
+- 🌱 I’m currently learning **ThreeJS**
 <!-- - , **Laravel** and **Spring** -->
      
 - 📫 You can reach me on **anthony.kch.725@gmail.com**
