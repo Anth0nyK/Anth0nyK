@@ -4,9 +4,12 @@
                                 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anth0nyk&label=Profile%20views&color=0e75b6&style=flat" alt="anth0nyk" /> </p>
  
-- My Personal Website : [anthonyk.net](https://anthonyk.net)
+- 🏠 My Personal Website : [anthonyk.net](https://anthonyk.net)
+  
+- 🗂️ My Portfolio : [portfolio.anthonyk.net](https://portfolio.anthonyk.net/)
 <!-- - 🔭 I’m currently working on **final year project** -->
-- My Final Year Project : 📦 **iDeal Marketplace** [ideal-marketplace.anthonyk.net](https://ideal-marketplace.anthonyk.net/) (**Next.js** & **Firebase**)
+<!-- - My Final Year Project : 📦 **iDeal Marketplace** [ideal-marketplace.anthonyk.net](https://ideal-marketplace.anthonyk.net/) (**Next.js** & **Firebase**) -->
+
   
 <!-- - 🌱 I’m currently learning **ThreeJS** -->
 <!-- - , **Laravel** and **Spring** -->
